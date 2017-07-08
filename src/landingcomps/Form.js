@@ -4,7 +4,7 @@ import { Form, FormGroup, Input, Button} from 'reactstrap';
 class MyForm extends Component{
     render(){
         return(
-            <div>
+
                 <Form acceptCharset="utf-8" action="https://fq248.infusionsoft.com/app/form/process/6eeeec81362b2b181b668586ef580792"  method="POST">
                     <input name="inf_form_xid" type="hidden" value="6eeeec81362b2b181b668586ef580792" />
                     <input name="inf_form_name" type="hidden" value="Web Form submitted" />
@@ -21,7 +21,7 @@ class MyForm extends Component{
                         </div>
                     </FormGroup>
                 </Form>
-            </div>
+
         )
     }
 }

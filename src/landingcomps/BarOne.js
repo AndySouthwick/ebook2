@@ -4,7 +4,7 @@ import MyForm from './Form'
 class BarOne extends Component{
     render(){
         return(
-            <Container>
+
                 <Row>
 
                     <Col lg="6">
@@ -25,7 +25,7 @@ class BarOne extends Component{
                         <MyForm/>
                     </Col>
                 </Row>
-            </Container>
+          
         )
     }
 }
