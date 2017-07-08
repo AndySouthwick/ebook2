@@ -67,7 +67,7 @@ class CountdownTimer extends Component{
     render(){
         return(
             <div>
-                <Row className="justify-content-center">
+                <Row className="justify-content-center text-center">
                     <Col lg="1"><h1>{this.state.time.d}</h1><hr/>Days</Col>   <Col lg="1"><h1>{this.state.time.h}</h1><hr/>Hours</Col>  <Col lg="1"><h1>{this.state.time.m}</h1><hr/>Minute</Col>  <Col lg="1"><h1>{this.state.time.s}</h1><hr/> Seconds </Col>
                 </Row>
             </div>

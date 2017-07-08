@@ -7,12 +7,12 @@ class BarThree extends Component{
     render(){
         return(
             <Container className="bar3">
-                <Row className="justify-content-center">
-                    <h1 text-align="center">Features</h1>
+                <Row className="text-center">
+                    <h1 >Features</h1>
                 </Row>
 
                 <Row>
-                    <Col lg="6">
+                    <Col lg="6" md="12" xs="12" className="text-center">
                         <p><h2>Simple</h2>
                             No hassle delivery method
                         </p>
@@ -21,7 +21,7 @@ class BarThree extends Component{
                         </p>
                     </Col>
 
-                    <Col lg="6">
+                    <Col lg="6" md="12" xs="12" className="text-center">
                         <p><h2>Start reading right away</h2>
                             You’ll get your instant download link sent directly to your e-mail in just a few minutes
                         </p>
@@ -31,7 +31,7 @@ class BarThree extends Component{
                         </p>
                     </Col>
                 </Row>
-                <Row className="justify-content-center">
+                <Row>
                     <ModalForm/>
                 </Row>
             </Container>
