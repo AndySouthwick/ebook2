@@ -7,11 +7,11 @@ class BarOne extends Component{
 
                 <Row>
 
-                    <Col lg="6" sm="12">
+                    <Col lg="6" xs="12">
                         <img src="./images/book.png" alt=""/>
                     </Col>
 
-                    <Col lg="6" sm="12" className="formmargin" text-align="center">
+                    <Col lg="6" xs="12" className="formmargin" text-align="center">
 
                         <p><h2>There’s Never Been A Better Time to Take Control Of Your Financial Freedom...</h2></p>
                         <p className="alert-danger">

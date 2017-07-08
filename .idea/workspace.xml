@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e3095009-df90-415b-8468-d58d651cf208" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/App.css" afterPath="$PROJECT_DIR$/src/App.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/landingcomps/BarThree.js" afterPath="$PROJECT_DIR$/src/landingcomps/BarThree.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/landingcomps/CountdownTimer.js" afterPath="$PROJECT_DIR$/src/landingcomps/CountdownTimer.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/landingcomps/Header.js" afterPath="$PROJECT_DIR$/src/landingcomps/Header.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/landingcomps/BarOne.js" afterPath="$PROJECT_DIR$/src/landingcomps/BarOne.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -33,11 +29,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BarOne.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="BarOne.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/landingcomps/BarOne.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="39" lean-forward="false" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
+            <state relative-caret-position="195">
+              <caret line="13" column="32" lean-forward="true" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
               <folding>
                 <element signature="e#0#38#0" expanded="true" />
               </folding>
@@ -81,7 +77,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Header.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Header.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/landingcomps/Header.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
@@ -154,12 +150,12 @@
         <option value="$PROJECT_DIR$/src/landingcomps/ModalForm.js" />
         <option value="$PROJECT_DIR$/src/landingcomps/Footer.js" />
         <option value="$PROJECT_DIR$/src/landingcomps/Form.js" />
-        <option value="$PROJECT_DIR$/src/landingcomps/BarOne.js" />
         <option value="$PROJECT_DIR$/src/landingcomps/CountdownTimer.js" />
         <option value="$PROJECT_DIR$/src/App.css" />
         <option value="$PROJECT_DIR$/src/landingcomps/Landing.js" />
         <option value="$PROJECT_DIR$/src/landingcomps/BarThree.js" />
         <option value="$PROJECT_DIR$/src/landingcomps/Header.js" />
+        <option value="$PROJECT_DIR$/src/landingcomps/BarOne.js" />
       </list>
     </option>
   </component>
@@ -366,12 +362,12 @@
       <option name="presentableId" value="Default" />
       <updated>1499457055138</updated>
       <workItem from="1499457056927" duration="6223000" />
-      <workItem from="1499485515739" duration="975000" />
+      <workItem from="1499485515739" duration="1115000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7198000" />
+    <option name="totallyTimeSpent" value="7338000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1280" y="-247" width="1280" height="1361" extended-state="0" />
@@ -565,16 +561,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/landingcomps/BarOne.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="39" lean-forward="false" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
-          <folding>
-            <element signature="e#0#38#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/landingcomps/CountdownTimer.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="566">
@@ -625,6 +611,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="42" lean-forward="false" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/landingcomps/BarOne.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="32" lean-forward="true" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
           <folding>
             <element signature="e#0#38#0" expanded="true" />
           </folding>
