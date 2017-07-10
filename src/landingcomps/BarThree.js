@@ -7,8 +7,8 @@ class BarThree extends Component{
     render(){
         return(
             <Container className="bar3">
-                <Row className="text-center">
-                    <h1 >Features</h1>
+                <Row>
+                    <h1 className="text-center">Features</h1>
                 </Row>
 
                 <Row>
